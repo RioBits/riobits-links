@@ -25,8 +25,8 @@ function App() {
           <Card
             image='./images/honey_ref.png'
             title='Honey'
-            description='Honey will hep you save money while shopping online ,sign up & Earn 500 Honey Gold points on your first purchase'
-            rlink='joinhoney.com/ref/mbjiwpo'
+            description='Honey will help you save money while shopping online ,sign up & Earn 500 Honey Gold points on your first purchase'
+            rlink='https://joinhoney.com/ref/mbjiwpo'
           />
           <Card
             image='./images/pi_ref.png'
