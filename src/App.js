@@ -37,7 +37,7 @@ function App() {
           <Card
             image='./images/skillshare_ref.png'
             title='Skillshare'
-            description='Explore online classes in design, illustration, photography, and more. Use my link and get 1 free month'
+            description='Explore online classes in design, illustration, photography, and more. Use my link and get 2 free month'
             rlink='https://skl.sh/3tudI3B'
           />
           <Card
